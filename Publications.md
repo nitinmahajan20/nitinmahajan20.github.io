@@ -11,6 +11,11 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 ---
 
 ### Publications
+45\. **[Deciphering the molecular landscape of hepatopancreatic necrosis disease in Eriocheir sinensis using RNA-Seq meta-analysis](https://link.springer.com/article/10.1007/s13258-025-01715-x)**   
+   _Malik A, **Mahajan N**, et al (**Equal Contribution**)_ 
+   Published in: _Gene and Genomics_, 2025, https://doi.org/10.1007/s13258-025-01715-x)    
+   [Read full text (PDF)](/assets/pdf/Gene_Genomics_RNA_Seq.pdf)
+
 44\. **[TP-ML: A machine-learning-based tool to identify threonine proteases using sequence-derived optimal features](https://ieeexplore.ieee.org/abstract/document/10879241)**   
    _Firoz A, Malik A, **Mahajan N**, et al_  
    Published in: _IEEE Transactions on Computational Biology and Bioinformatics_, 2025, doi: 10.1109/TCBBIO.2025.3540588    
