@@ -12,7 +12,7 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 
 ### Publications
 45\. **[Deciphering the molecular landscape of hepatopancreatic necrosis disease in Eriocheir sinensis using RNA-Seq meta-analysis](https://link.springer.com/article/10.1007/s13258-025-01715-x)**   
-   _Malik A, **Mahajan N**, et al (**Equal Contribution**)_
+   _Malik A, **Mahajan N**, et al (**Equal Contribution**)_  
    Published in: _Gene and Genomics_, 2025, https://doi.org/10.1007/s13258-025-01715-x)    
    [Read full text (PDF)](/assets/pdf/Gene_Genomics_RNA_Seq.pdf)
 
