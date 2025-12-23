@@ -11,6 +11,11 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 ---
 
 ### Publications
+46\. **[Impact of glucagon-like peptide-1 receptor agonism-based therapies on limb outcomes in peripheral artery disease and type 2 diabetes: An updated systematic review and meta-analysis](https://doi.org/10.1111/dom.70391)**   
+   _Dutta D, Mahajan K, Kamrul-Hasan ABM, **Mahajan N**, et al_  
+   Published in: _Diabetes Obes Metab_, 2025, https://doi.org/10.1111/dom.70391)    
+   [Read full text (PDF)](/assets/pdf/Dia_Ob_Metab_2025_Dutta.pdf)
+   
 45\. **[Deciphering the molecular landscape of hepatopancreatic necrosis disease in Eriocheir sinensis using RNA-Seq meta-analysis](https://link.springer.com/article/10.1007/s13258-025-01715-x)**   
    _Malik A, **Mahajan N**, et al (**Equal Contribution**)_  
    Published in: _Gene and Genomics_, 2025, https://doi.org/10.1007/s13258-025-01715-x)    
