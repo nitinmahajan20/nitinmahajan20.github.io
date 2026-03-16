@@ -13,22 +13,22 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 ### Publications
 47\. **[Efficacy and Safety of Upfront Oral Triple Lipid-­ Lowering Therapy: A Systematic Review and Single-­Arm Meta-­Analysis](https://doi.org/10.1111/dom.70663)**   
    _Mahajan K, Jena S, Dutta A, Kamrul-Hasan ABM, Sharma J, Himral S, Mansk PD, **Mahajan N**_  
-   Published in: _Diabetes Obes Metab_, 2026, https://doi.org/10.1111/dom.70663)    
+   Published in: _Diabetes Obes Metab_, 2026    
    [Read full text (PDF)](/assets/pdf/047_DOM_2026_Oral_TripleLLT.pdf)
 
 46\. **[Impact of glucagon-like peptide-1 receptor agonism-based therapies on limb outcomes in peripheral artery disease and type 2 diabetes: An updated systematic review and meta-analysis](https://doi.org/10.1111/dom.70391)**   
    _Dutta D, Mahajan K, Kamrul-Hasan ABM, **Mahajan N**, et al_  
-   Published in: _Diabetes Obes Metab_, 2025, https://doi.org/10.1111/dom.70391)    
+   Published in: _Diabetes Obes Metab_, 2025    
    [Read full text (PDF)](/assets/pdf/Dia_Ob_Metab_2025_Dutta.pdf)
    
 45\. **[Deciphering the molecular landscape of hepatopancreatic necrosis disease in Eriocheir sinensis using RNA-Seq meta-analysis](https://link.springer.com/article/10.1007/s13258-025-01715-x)**   
    _Malik A, **Mahajan N**, et al (**Equal Contribution**)_  
-   Published in: _Gene and Genomics_, 2025, https://doi.org/10.1007/s13258-025-01715-x)    
+   Published in: _Gene and Genomics_, 2025    
    [Read full text (PDF)](/assets/pdf/Gene_Genomics_RNA_Seq.pdf)
 
 44\. **[TP-ML: A machine-learning-based tool to identify threonine proteases using sequence-derived optimal features](https://ieeexplore.ieee.org/abstract/document/10879241)**   
    _Firoz A, Malik A, **Mahajan N**, et al_  
-   Published in: _IEEE Transactions on Computational Biology and Bioinformatics_, 2025, doi: 10.1109/TCBBIO.2025.3540588    
+   Published in: _IEEE Transactions on Computational Biology and Bioinformatics_, 2025    
    [Read full text (PDF)](/assets/pdf/TP_ML.pdf)
 
 43\. **[GPpred: A Novel Sequence-Based Tool for Predicting Glutamic Proteases Using Optimized Hybrid Encodings](https://www.mdpi.com/2073-4344/14/12/894)**   
