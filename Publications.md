@@ -12,7 +12,7 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 
 ### Publications
 47\. **[Efficacy and Safety of Upfront Oral Triple Lipid-­ Lowering Therapy: A Systematic Review and Single-­Arm Meta-­Analysis](https://doi.org/10.1111/dom.70663)**   
-   _Dutta D, Mahajan K, Kamrul-Hasan ABM, **Mahajan N**, et al_  
+   _Mahajan K, Jena S, Dutta A, Kamrul-Hasan ABM, Sharma J, Himral S, Mansk PD, **Mahajan N**_  
    Published in: _Diabetes Obes Metab_, 2026, https://doi.org/10.1111/dom.70663)    
    [Read full text (PDF)](/assets/pdf/047_DOM_2026_Oral_TripleLLT.pdf)
 
