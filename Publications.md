@@ -11,7 +11,7 @@ Here is the [Google Scholar Link](https://scholar.google.com/citations?user=14IH
 ---
 
 ### Publications
-48\. **[Changes in lipoprotein(a) and their association with LDL-C in patients with ACS treated with triple oral lipid-lowering therapy]([https://doi.org/10.1016/j.jacl.2026.03.006])**   
+48\. **[Changes in lipoprotein(a) and their association with LDL-C in patients with ACS treated with triple oral lipid-lowering therapy](https://doi.org/10.1016/j.jacl.2026.03.006)**   
    _Mahajan K, **Mahajan N**, et al (**Equal Contribution**)_  
    Published in: _Journal of Clinical Lipidology_, 2026    
    [Read full text (PDF)](/assets/pdf/048_JCL_2026_Lpa.pdf)
